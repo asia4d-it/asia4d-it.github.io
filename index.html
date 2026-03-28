@@ -9,13 +9,13 @@
     "content_site": "https://asia4d-it.github.io/",
     "content_site_id": 88,
     "content_category": "Prov",
-    "content_subcategory": "JP500",
+    "content_subcategory": "ASIA4D",
     "content_location": "Di",
     "content_author": "",
     "content_aid1": "",
     "content_aid2": "",
     "content_aid3": "",
-    "content_editor": "JP500",
+    "content_editor": "ASIA4D",
     "content_eid": "7768",
     "content_lipsus": "",
     "content_lipsus_id": "",
@@ -26,7 +26,7 @@
     "content_Year_PubDate": "2026",
     "content_Date_PubDate": "05",
     "content_source": "",
-    "content_tag": "JP500",
+    "content_tag": "ASIA4D",
     "content_title": "ASIA4D: Review Game Toto Togel Viral yang Sedang Ramai Dibicarakan",
     "content_tags": "",
     "content_total_words": 366,
@@ -52,7 +52,7 @@
 <link rel="amphtml" href="https://asia4d-it.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
-<meta name="author" content="JP500">
+<meta name="author" content="ASIA4D">
 <meta name="robots" content="index, follow" />
 <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="language" content="id" />
@@ -79,13 +79,13 @@
 <meta name="twitter:image" content="https://s13.gifyu.com/images/bmtet.jpg" />
 <!-- E:tweeter card -->
 
-<meta name="content_category" content="JP500" />
-<meta name="content_subcategory" content="JP500" />
+<meta name="content_category" content="ASIA4D" />
+<meta name="content_subcategory" content="ASIA4D" />
 <meta name="content_location" content="Di" />
 <meta name="content_author_id" content="" />
 <meta name="content_author" content="" />
 <meta name="content_editor_id" content="7768" />
-<meta name="content_editor" content="JP500" />
+<meta name="content_editor" content="ASIA4D" />
 <meta name="content_lipsus" content="" />
 <meta name="content_lipsus_id" content="" />
 <meta name="content_sensi" content="" />
@@ -93,7 +93,7 @@
 <meta name="content_PublishedDate" content="2026-03-05 12:16:00" />
 <meta property="article:published_time" content="2026-03-05T12:16:45+00:00" />
 <meta name="content_source" content="" />
-<meta name="content_tag" content="JP500" />
+<meta name="content_tag" content="ASIA4D" />
 <meta name="content_tags" content="" />
 <meta name="content_total_words" content="452" />
 <meta name="subscription" content="False" />
@@ -336,7 +336,7 @@ var rl_adx_val = '';
  "dateModified": "2026-03-05T12:16:45+00:00",
  "author": {
   "@type": "Person",
-  "name": "JP500",
+  "name": "ASIA4D",
   "url": "https://indeks.kompas.com/profile/"
  },
  "publisher": {
@@ -434,7 +434,7 @@ var rl_adx_val = '';
     letter-spacing: 1.5px;
     text-transform: uppercase;
     
-    /* --- Palet Warna JP500 --- */
+    /* --- Palet Warna ASIA4D --- */
     color: #FFFFFF; /* Teks putih untuk kontras maksimal */
     background: #cfc760; /* Latar biru tua yang solid dan dalam */
     border-radius: 10px; /* Border radius sedikit lebih bulat untuk tampilan modern */
@@ -605,7 +605,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
       .logo img {width:auto;}
       .logo {width:auto;}
     </style>
-    <img src="https://s13.gifyu.com/images/bm4GD.png" alt="JP500 Logo">
+    <img src="https://s13.gifyu.com/images/bm4GD.png" alt="ASIA4D Logo">
   </a>
 </div>
 
@@ -618,7 +618,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                 id="fcSearch">
                                 <div class="searchBox-wrap">
                                     <input type="text" name="q" class="header-search-input" value=""
-                                        placeholder="Cari JP500" autocomplete="off"
+                                        placeholder="Cari ASIA4D" autocomplete="off"
                                         list="populer" id="cSearch">
                                     <input class="header-search-button" type="submit" name="">
                                     <span class="icon-svg icon-search"></span>
@@ -675,7 +675,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                                         <!-- play icon -->
                     <div class="menu-item menu-plus">
-	                    <a href="https://asia4d-it.pages.dev/" class="button-default active" role="link" id="menu-plus" aria-label="JP500">
+	                    <a href="https://asia4d-it.pages.dev/" class="button-default active" role="link" id="menu-plus" aria-label="ASIA4D">
 	                        <span class="icon-svg icon-plus" aria-hidden="true">
 	                            <img src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif" alt="Icon Kompascom+">
 	                        </span>
@@ -704,7 +704,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://asia4d-it.pages.dev/"><span><i class="sso__icon__subscription"></i> Join Bersama JP500<i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://asia4d-it.pages.dev/"><span><i class="sso__icon__subscription"></i> Join Bersama ASIA4D<i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -1515,7 +1515,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://asia4d-it.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership JP500</a>
+<a href="https://asia4d-it.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership ASIA4D</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1906,7 +1906,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://asia4d-it.github.io/">JP500</a></div>
+                <div class="read__time"><a href="https://asia4d-it.github.io/">ASIA4D</a></div>
             </div>
               
             <div class="col-bs10-10">            </div>
@@ -2092,28 +2092,28 @@ margin-top:10px;
   <h2 class="faq-title">FAQ ASIA4D: Review Game Toto Togel Viral yang Sedang Ramai Dibicarakan</h2>
 
   <div class="faq-item">
-    <button class="faq-question">Apa itu JP500?</button>
+    <button class="faq-question">Apa itu ASIA4D?</button>
     <div class="faq-answer">
       <p>
-        <b>JP500</b> adalah platform **togel online terpercaya** yang menyediakan berbagai permainan **toto resmi online** dari provider resmi. Situs ini menawarkan pengalaman bermain aman, nyaman, dan peluang **Maxwin tinggi** bagi semua pemain di tahun 2026.
+        <b>ASIA4D</b> adalah platform **togel online terpercaya** yang menyediakan berbagai permainan **toto resmi online** dari provider resmi. Situs ini menawarkan pengalaman bermain aman, nyaman, dan peluang **Maxwin tinggi** bagi semua pemain di tahun 2026.
       </p>
     </div>
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Bagaimana cara login di JP500?</button>
+    <button class="faq-question">Bagaimana cara login di ASIA4D?</button>
     <div class="faq-answer">
       <p>
-        Pemain dapat login melalui **link resmi JP500** yang tersedia. Proses login mudah, cepat, dan dapat diakses lewat desktop maupun perangkat mobile, sehingga pemain bisa langsung menikmati game togel online gacor kapan saja.
+        Pemain dapat login melalui **link resmi ASIA4D** yang tersedia. Proses login mudah, cepat, dan dapat diakses lewat desktop maupun perangkat mobile, sehingga pemain bisa langsung menikmati game togel online gacor kapan saja.
       </p>
     </div>
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Apakah semua game di JP500 toto resmi online?</button>
+    <button class="faq-question">Apakah semua game di ASIA4D toto resmi online?</button>
     <div class="faq-answer">
       <p>
-        Ya, semua permainan di <b>JP500</b> adalah **toto resmi online** dengan peluang menang tinggi. Situs ini menyediakan berbagai game populer dengan fitur bonus menarik dan potensi **Maxwin** yang besar.
+        Ya, semua permainan di <b>ASIA4D</b> adalah **toto resmi online** dengan peluang menang tinggi. Situs ini menyediakan berbagai game populer dengan fitur bonus menarik dan potensi **Maxwin** yang besar.
       </p>
     </div>
   </div>
@@ -2122,16 +2122,16 @@ margin-top:10px;
     <button class="faq-question">Apakah transaksi deposit dan withdraw aman?</button>
     <div class="faq-answer">
       <p>
-        Semua transaksi deposit dan withdraw diproses cepat, aman, dan transparan. Pemain dapat menggunakan metode **Dana** atau dompet digital lain untuk kemudahan dan keamanan transaksi di **JP500**.
+        Semua transaksi deposit dan withdraw diproses cepat, aman, dan transparan. Pemain dapat menggunakan metode **Dana** atau dompet digital lain untuk kemudahan dan keamanan transaksi di **ASIA4D**.
       </p>
     </div>
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Mengapa pemain memilih JP500?</button>
+    <button class="faq-question">Mengapa pemain memilih ASIA4D?</button>
     <div class="faq-answer">
       <p>
-        <b>JP500</b> menawarkan akses mudah lewat **link alternatif resmi**, modal deposit fleksibel, permainan toto resmi online, peluang **Maxwin tinggi**, sistem stabil, dan layanan pelanggan responsif. Hal ini membuatnya menjadi pilihan utama bagi penggemar togel online di tahun 2026.
+        <b>ASIA4D</b> menawarkan akses mudah lewat **link alternatif resmi**, modal deposit fleksibel, permainan toto resmi online, peluang **Maxwin tinggi**, sistem stabil, dan layanan pelanggan responsif. Hal ini membuatnya menjadi pilihan utama bagi penggemar togel online di tahun 2026.
       </p>
     </div>
   </div>
@@ -2266,7 +2266,7 @@ btn.classList.toggle("active")
 
                 <div class="footerNewsletter">
                     <div class="footerNewsletter-title">
-                        Raih kemenagan dan jackpot besar melalui situs togel online di JP500</div>
+                        Raih kemenagan dan jackpot besar melalui situs togel online di ASIA4D</div>
 
                     <div class="footerNewsletter-cta">
                         <a href="https://asia4d-it.pages.dev/"class="footerNewsletter-link" rel="nofollow">
@@ -2378,7 +2378,7 @@ btn.classList.toggle("active")
                 </ul>
             </div>
             <div class="footerCopyright">
-                <p>Copyright 2026 JP500 OFFICIAL. All Rights Reserved.</p>
+                <p>Copyright 2026 ASIA4D OFFICIAL. All Rights Reserved.</p>
             </div>
         </div>
     </div>
@@ -3236,7 +3236,7 @@ if (onSubmitNps !== null) {
                     <div class="kgmModal-img">
                         <img src="https://s14.gifyu.com/images/bwU2m.png" alt="Kompas.com" />
                     </div>
-<p><strong>AYO GABUNG DI JP500 SEKARANG!</strong> SITUS TARUHAN JUDI JP500 APK SLOT88 WEB MAXWIN SIANG HARI INI !</p>
+<p><strong>AYO GABUNG DI ASIA4D SEKARANG!</strong> SITUS TARUHAN JUDI ASIA4D APK SLOT88 WEB MAXWIN SIANG HARI INI !</p>
                 </div>
                 <div class="kgmModal-footer">
                     <div class="form-row-big">
